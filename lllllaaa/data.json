@@ -1,0 +1,196 @@
+{
+  "siteContent": {
+    "home": {
+      "heroTitle": "Hi, I'm Aayush Ghimire",
+      "heroSubtitle": "Forestry Student | Microbiology Enthusiast | Web Developer"
+    },
+    "about": {
+      "title": "Passionate about bridging Nature and Technology",
+      "description1": "I am a dedicated Forestry Student from Syangja, Nepal, with a deep interest in microbiology and scientific research. Alongside my academic pursuits, I have developed a strong passion for web development and technology.",
+      "description2": "My goal is to combine my analytical research skills from science to build intuitive, problem-solving digital platforms. Currently aiming to pursue higher studies abroad to further expand my expertise in microbiology while continuing to grow my tech portfolio."
+    },
+    "services": {
+      "title": "Services & Expertise",
+      "description": "Combining scientific methodology with digital innovation to deliver comprehensive solutions.",
+      "items": [
+        {
+          "icon": "leaf",
+          "title": "Forestry Consultations",
+          "desc": "Expert advice on forest management, conservation strategies, and ecological assessments."
+        },
+        {
+          "icon": "microscope",
+          "title": "Research Support",
+          "desc": "Assistance with microbiological research, data collection, and statistical analysis."
+        },
+        {
+          "icon": "code",
+          "title": "Web Development",
+          "desc": "Building custom web applications and scientific tools with modern frameworks."
+        }
+      ]
+    },
+    "skills": {
+      "title": "Core Skills",
+      "items": [
+        {
+          "name": "Forestry Knowledge",
+          "percent": 92,
+          "color": "#22d3ee"
+        },
+        {
+          "name": "Microbiology Research",
+          "percent": 85,
+          "color": "#c026d3"
+        },
+        {
+          "name": "Frontend (React/Tailwind)",
+          "percent": 78,
+          "color": "#a855f7"
+        },
+        {
+          "name": "Data Analysis",
+          "percent": 85,
+          "color": "#22d3ee"
+        },
+        {
+          "name": "Communication",
+          "percent": 80,
+          "color": "#c026d3"
+        },
+        {
+          "name": "English",
+          "percent": 85,
+          "color": "#a855f7"
+        }
+      ]
+    },
+    "team": {
+      "title": "Meet Our Team",
+      "description": "Our experts bring years of experience in forestry, GIS mapping, ecological research, and sustainable development.",
+      "categories": [
+        "Admin",
+        "Vice-Admin",
+        "Guest"
+      ]
+    },
+    "contact": {
+      "email": "admin@aayush.com",
+      "phone": "+977-9801234567",
+      "whatsapp": "9779801234567",
+      "location": "Syangja, Nepal"
+    }
+  },
+  "users": [
+    {
+      "id": 1,
+      "name": "Sita Sharma",
+      "email": "sita@student.edu.np",
+      "role": "Vice-Admin",
+      "status": "Active",
+      "avatar": "https://ui-avatars.com/api/?name=Sita+Sharma&background=22d3ee&color=020617&size=200",
+      "bio": "Forestry major exploring GIS and remote sensing.",
+      "contacts": {
+        "phone": "+977-9841234567",
+        "location": "Pokhara, Nepal",
+        "email": "sita@student.edu.np"
+      },
+      "skills": [
+        {
+          "name": "GIS Mapping",
+          "percent": 85
+        },
+        {
+          "name": "Data Analysis",
+          "percent": 70
+        }
+      ],
+      "qualifications": [
+        {
+          "title": "BSc. Forestry",
+          "institution": "Tribhuvan University",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Aayush Ghimire",
+      "email": "admin@aayush.com",
+      "role": "Admin",
+      "status": "Active",
+      "avatar": "https://ui-avatars.com/api/?name=Aayush+Ghimire&background=c026d3&color=fff&size=200",
+      "bio": "Super Admin of Aayushub. Forestry & GIS Specialist with extensive experience in resource mapping.",
+      "contacts": {
+        "phone": "+977-9801234567",
+        "location": "Baglung, Nepal",
+        "linkedin": "aayush-ghimire"
+      },
+      "skills": [
+        {
+          "name": "GIS & Remote Sensing",
+          "percent": 95
+        },
+        {
+          "name": "Forest Survey & Mapping",
+          "percent": 90
+        },
+        {
+          "name": "Inventory Data Analysis",
+          "percent": 85
+        },
+        {
+          "name": "Web Development",
+          "percent": 80
+        }
+      ],
+      "qualifications": [
+        {
+          "title": "Forestry Ranger",
+          "institution": "IOF",
+          "year": "2021"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Prof. Adhikari",
+      "email": "prof.a@university.edu",
+      "role": "Guest",
+      "status": "Active",
+      "avatar": "https://ui-avatars.com/api/?name=Prof+Adhikari&background=3b82f6&color=fff&size=200",
+      "bio": "Senior researcher specializing in ecological modelling.",
+      "contacts": {
+        "phone": "+977-9851234567",
+        "location": "Kathmandu, Nepal"
+      },
+      "skills": [
+        {
+          "name": "Ecology",
+          "percent": 95
+        },
+        {
+          "name": "Research Methods",
+          "percent": 90
+        }
+      ],
+      "qualifications": [
+        {
+          "title": "Ph.D. Environmental Science",
+          "institution": "Kathmandu University",
+          "year": "2010"
+        }
+      ]
+    }
+  ],
+  "notices": [
+    {
+      "id": 1,
+      "title": "Welcome to Aayushub Portal",
+      "content": "We have updated our terms of service and added new exciting features. Explore the dashboard to learn more.",
+      "date": "5/18/2026",
+      "isActive": true
+    }
+  ],
+  "adminPassword": "Aayush@123"
+}
